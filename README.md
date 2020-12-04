@@ -1,2 +1,2 @@
-# echarts-geo-
-echart相关的功能代码
+# echarts-tool-
+echart 相关的工具代码
